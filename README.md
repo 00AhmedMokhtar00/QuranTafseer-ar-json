@@ -1,2 +1,10 @@
 # QuranTafseer-ar-json
-arabic tafseer al-moyaser for quran JSON format. provided by tanzil.net.
+
+* arabic tafseer al-moyaser for quran JSON format.
+
+* arabic quran chapters names JSON format.
+
+* arabic doaa moslem (morning - evening - dead people - muslims) JSON format.
+
+* arabic quran suras JSON format.
+
