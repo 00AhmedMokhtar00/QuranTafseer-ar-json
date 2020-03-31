@@ -8,3 +8,5 @@
 
 * arabic quran suras JSON format.
 
+* additional resourses: https://github.com/semarketir/quranjson/tree/master/source
+
