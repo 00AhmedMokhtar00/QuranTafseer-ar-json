@@ -10,3 +10,5 @@
 
 * additional resourses: https://github.com/semarketir/quranjson/tree/master/source
 
+* very intersting quran app, has all quran APIs you would need: https://github.com/MahmoudMabrok/QuranyApp
+
